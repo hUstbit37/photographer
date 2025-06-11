@@ -1,0 +1,16 @@
+.text-muted {
+    color: var(--text-muted) !important;
+}
+.section-header {
+    color: var(--text-color) !important;
+}
+.service-card {
+    background-color: var(--card-bg) !important;
+}
+.form-control, .form-select {
+    background-color: var(--card-bg) !important;
+    color: var(--text-color) !important;
+}
+.form-control::placeholder {
+    color: var(--text-muted) !important;
+}
